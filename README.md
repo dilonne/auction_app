@@ -29,7 +29,6 @@
 7. Run npm start
 18. Visit localhost://3000 and login
 
-### Login credentials
+### Login credentials (No password is required)
 * user1
 * user2
-No password is required
