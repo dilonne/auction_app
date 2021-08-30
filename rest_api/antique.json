@@ -1,0 +1,35 @@
+[
+    {
+      "model":"auction.antique",
+      "pk":1,
+      "fields":{
+        "name": "Mercedes CLA",
+        "description":"2001,Black, Naturally Aspirated V12 6.3L"
+      }
+    },
+    {
+      "model":"auction.antique",
+      "pk":2,
+      "fields":{
+        "name": "Aston Martin DB",
+        "description":"1993, Clean, Low Milieage"
+      }
+    },
+
+    {
+        "model":"auction.antique",
+        "pk":3,
+        "fields":{
+          "name": "Audi A6",
+          "description":"2005, V8 Biturbo 6.2L"
+        }
+      },
+      {
+        "model":"auction.antique",
+        "pk":4,
+        "fields":{
+          "name": "Dodge Viper",
+          "description":"2000, Clean, Low Milieage"
+        }
+      }
+  ]

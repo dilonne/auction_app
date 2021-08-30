@@ -1,0 +1,40 @@
+[
+    {
+      "model":"auction.auctionitem",
+      "pk":1,
+      "fields":{
+        "auction": 1,
+        "antique":1,
+        "base_price": 50.00
+      }
+    },
+    {
+      "model":"auction.auctionitem",
+      "pk":2,
+      "fields":{
+        "auction": 1,
+        "antique":2,
+        "base_price": 10.00
+      }
+    },
+
+    {
+      "model":"auction.auctionitem",
+      "pk":3,
+      "fields":{
+        "auction": 1,
+        "antique":3,
+        "base_price": 40.00
+      }
+    },
+
+    {
+      "model":"auction.auctionitem",
+      "pk":4,
+      "fields":{
+        "auction": 1,
+        "antique":4,
+        "base_price": 20.00
+      }
+    }
+  ]
